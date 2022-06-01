@@ -2,7 +2,7 @@
   "name": "task",
   "version": "1.0.0",
   "description": "In this task, you will create a banking API with the basic `CRUD` operations.",
-  "main": "accounts.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/JoinCODED/Task-Express-M1-Intro-Crud-Banks#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "mongoose": "^6.3.1",
+    "mongoose": "^6.3.5",
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.19.0",
